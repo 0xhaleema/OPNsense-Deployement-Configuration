@@ -29,6 +29,9 @@ This lab demonstrates core network defense concepts by setting up a controlled e
 | Windows 10     | Target      | 10.0.0.62   |
 
 ---
+## 📸 Dashboard
+
+![OPNsense Dashboard](dashboard.png)
 
 ## ✅ Tasks Implemented
 
