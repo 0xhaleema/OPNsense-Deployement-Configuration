@@ -64,7 +64,7 @@ This lab demonstrates core network defense concepts by setting up a controlled e
 
 ---
 
-## 🔥 Bonus — Attack Simulation
+## Task 5 — Attack Simulation
 
 | Attack           | Tool    | Result                        |
 |------------------|---------|-------------------------------|
