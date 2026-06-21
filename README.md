@@ -62,7 +62,7 @@ This lab demonstrates core network defense concepts by setting up a controlled e
 | KaliHost      | 10.0.0.73    | Attacker machine reference|
 | BlockedPorts  | 80, 22, 443  | Ports to block            |
 
-## Task 5 — Attack Simulation
+### Task 5 — Attack Simulation
 
 | Attack           | Tool    | Result                        |
 |------------------|---------|-------------------------------|
